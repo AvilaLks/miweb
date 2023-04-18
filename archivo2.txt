@@ -1,0 +1,8 @@
+Ya se ha logrado conocer más de git, utilizando los comandos de terminal
+git status           se puede ver el estado del repositorio
+git add archivox.txt  agrega el archivo a la etapa de stage
+
+Cada vez que haga una modificación en este archivo el cambio no queda en la etapa de stage
+
+para ver esto guarde el archivo modificado y en la terminal digite
+git status para ver el estado de los archivos en el repositorio.

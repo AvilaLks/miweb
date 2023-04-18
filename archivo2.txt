@@ -6,3 +6,9 @@ Cada vez que haga una modificación en este archivo el cambio no queda en la eta
 
 para ver esto guarde el archivo modificado y en la terminal digite
 git status para ver el estado de los archivos en el repositorio.
+
+luego se pasan los cambios del archivo2.txt a la etapa de stage.
+
+despues con el comando commit se pasan a la eta de comprometer (commit)
+
+se modifica el archivo2.txt nuevamente se guardan los cambios y en la termional verificamos el estado del repositorio con git status

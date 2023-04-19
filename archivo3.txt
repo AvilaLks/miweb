@@ -13,4 +13,5 @@ despues con el comando commit se pasan a la eta de comprometer (commit)
 
 se modifica el archivo2.txt nuevamente se guardan los cambios y en la termional verificamos el estado del repositorio con git status
 
-Cambio de ultima hora
+Nuevo cambio realizado en 'ramab'
+
